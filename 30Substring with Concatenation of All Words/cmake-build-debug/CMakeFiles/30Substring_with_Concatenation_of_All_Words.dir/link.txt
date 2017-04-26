@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/30Substring_with_Concatenation_of_All_Words.dir/main.cpp.o  -o 30Substring_with_Concatenation_of_All_Words 

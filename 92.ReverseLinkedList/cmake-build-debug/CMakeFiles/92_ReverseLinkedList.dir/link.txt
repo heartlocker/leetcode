@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/92_ReverseLinkedList.dir/main.cpp.o  -o 92_ReverseLinkedList 

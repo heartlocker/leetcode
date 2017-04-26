@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/25_Reverse_nodes_in_k_group.dir/main.cpp.o  -o 25_Reverse_nodes_in_k_group 

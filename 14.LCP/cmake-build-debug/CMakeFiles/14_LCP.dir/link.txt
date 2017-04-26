@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/14_LCP.dir/main.cpp.o  -o 14_LCP 

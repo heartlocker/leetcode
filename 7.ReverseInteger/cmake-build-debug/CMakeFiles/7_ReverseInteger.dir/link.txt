@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/7_ReverseInteger.dir/main.cpp.o  -o 7_ReverseInteger 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/6_ZigZagConversion.dir/main.cpp.o  -o 6_ZigZagConversion 

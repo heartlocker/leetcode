@@ -1,0 +1,3 @@
+/home/hqy/CLionProjects/leetcode/31. Next Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hqy/CLionProjects/leetcode/31. Next Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hqy/CLionProjects/leetcode/31. Next Permutation/cmake-build-debug/CMakeFiles/31__Next_Permutation.dir
